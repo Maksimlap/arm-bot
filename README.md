@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="assets/arm-bot-real.jpg" width="48%" alt="Внешний вид робота манипулятора" />
-  <img src="assets/kinematics-graphics.png" width="48%" alt="Кинематика роота манипулятора" />
+  <img src="assets/kinematics-graphics.png" width="60%" alt="Кинематика роота манипулятора" />
 </p>
 
 ## ✨ Особенности проекта
